@@ -2315,9 +2315,9 @@ http://jaz9.my.to:2392/udp/224.1.4.110:11111
 http://jaz9.my.to:2392/udp/224.1.4.238:11111
 #EXTINF:-1 tvg-id="2" tvg-name="智林体育" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/智林体育.png" group-title="港澳台",智林体育
 http://jaz9.my.to:2392/udp/230.1.2.78:11111
-#EXTINF:-1 tvg-id="1" tvg-name="TRACESPORTS" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/TRACESPORTS.png" group-title="港澳台",TRACESPORTS
+#EXTINF:-1 tvg-id="1" tvg-name="TRACESPORTSTARS" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/TRACESPORTSTARS.png" group-title="港澳台",TRACESPORTSTARS
 http://jaz9.my.to:2392/udp/224.1.4.242:11111
-#EXTINF:-1 tvg-id="2" tvg-name="TRACESPORTS" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/TRACESPORTS.png" group-title="港澳台",TRACESPORTS
+#EXTINF:-1 tvg-id="2" tvg-name="TRACESPORTSTARS" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/TRACESPORTSTARS.png" group-title="港澳台",TRACESPORTSTARS
 http://jaz9.my.to:2392/udp/230.1.2.84:11111
 #EXTINF:-1 tvg-id="1" tvg-name="爱尔达体育1台" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/爱尔达体育1台.png" group-title="港澳台",爱尔达体育1台
 http://jaz9.my.to:2392/udp/230.1.2.131:11111
