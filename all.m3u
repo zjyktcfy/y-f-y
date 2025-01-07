@@ -1461,9 +1461,9 @@ http://36.46.99.158:8012/rtp/239.111.205.36:5140
 http://36.46.67.129:4022/rtp/239.111.205.102:5140
 #EXTINF:-1 tvg-id="2" tvg-name="陕西八套" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西八套.png" group-title="陕西电信",陕西八套
 http://36.46.99.158:8012/rtp/239.111.205.102:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西银领" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西银领.png" group-title="陕西电信",陕西银领
+#EXTINF:-1 tvg-id="1" tvg-name="陕西银龄" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西银龄.png" group-title="陕西电信",陕西银龄
 http://36.46.67.129:4022/rtp/239.111.205.98:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西银领" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西银领.png" group-title="陕西电信",陕西银领
+#EXTINF:-1 tvg-id="2" tvg-name="陕西银龄" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西银龄.png" group-title="陕西电信",陕西银龄
 http://36.46.99.158:8012/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西秦腔" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西秦腔.png" group-title="陕西电信",陕西秦腔
 http://36.46.67.129:4022/rtp/239.111.205.100:5140
