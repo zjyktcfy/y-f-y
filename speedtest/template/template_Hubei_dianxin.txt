@@ -24,3 +24,9 @@ http://ipipip/rtp/239.69.1.36:9856
 http://ipipip/rtp/239.69.1.60:9994
 #EXTINF:-1 tvg-id="1" tvg-name="湖北垄上" tvg-logo="https://www.yangfeiyue.cn/tv/湖北垄上.png" group-title="卫视高清",湖北垄上
 http://ipipip/rtp/239.69.1.43:9898
+#EXTINF:-1 tvg-id="1" tvg-name="房县综合" tvg-logo="https://www.yangfeiyue.cn/tv/房县综合.png" group-title="卫视高清",房县综合
+http://ipipip/rtp/239.69.1.192:10794
+#EXTINF:-1 tvg-id="1" tvg-name="蔡甸综合" tvg-logo="https://www.yangfeiyue.cn/tv/蔡甸综合.png" group-title="卫视高清",蔡甸综合
+http://ipipip/rtp/239.69.1.245:11112
+#EXTINF:-1 tvg-id="1" tvg-name="阳新综合" tvg-logo="https://www.yangfeiyue.cn/tv/阳新综合.png" group-title="卫视高清",阳新综合
+http://ipipip/rtp/239.69.1.34:9844
