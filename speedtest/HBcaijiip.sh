@@ -25,10 +25,7 @@ if [ $# -eq 0 ]; then
   echo "10. 湖南（Hunan_dianxin）"
   echo "11. 河南（Henan_liantong）"
   echo "12. 河北（Hebei_liantong）"
-  echo "13. 四川（Sichuan_dianxin）"
-  echo "14. 四川（Sichuan_yidong）"
-  echo "15. 江西（Jiangxi_dianxin）"
-  echo "16. KR（KR_SK）"
+  echo "13. KR（KR_SK）"
   echo "0. 全部"
   read -t 10 -p "输入选择或在10秒内无输入将默认选择全部: " city_choice
 
@@ -140,30 +137,6 @@ case $city_choice in
         url_fofa="https://fu.yangfeiyue.us.kg/Hebei_liantong.txt"$url_fofa
         ;;
     13)
-        city="Sichuan_dianxin"
-        stream="rtp/239.93.0.252:5140"
-        channel_key="四川"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && city="Chengdu" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgY2l0eT0iQ2hlbmdkdSIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi&page_size=20"$url_fofa
-        url_fofa="https://fu.yangfeiyue.us.kg/Sichuan_dianxin.txt"$url_fofa
-        ;;
-    14)
-        city="Sichuan_yidong"
-        stream="rtp/239.11.0.151:5140"
-        channel_key="四川"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Sichuan" && org="China Mobile Communications Group Co., Ltd." && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaWNodWFuIiAmJiBvcmc9IkNoaW5hIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBHcm91cCBDby4sIEx0ZC4iICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://li.yangfeiyue.us.kg/Sichuan_yidong.txt"$url_fofa
-        ;;
-    15)
-        city="Jiangxi_dianxin"
-        stream="rtp/239.252.220.242:5140"
-        channel_key="江西"
-#        url_fofa=$(echo  '"udpxy" && country="CN" && region="Jiangxi" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJKaWFuZ3hpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://li.yangfeiyue.us.kg/Jiangxi_dianxin.txt"$url_fofa
-        ;;
-    16)
         city="KR_SK"
         stream="udp/239.192.67.228:49220"
         channel_key="KR"
@@ -281,12 +254,6 @@ echo "河南,#genre#" >>zubo.txt
 cat txt/Henan_liantong.txt >>zubo.txt
 echo "河北,#genre#" >>zubo.txt
 cat txt/Hebei_liantong.txt >>zubo.txt
-echo "四川,#genre#" >>zubo.txt
-cat txt/Sichuan_dianxin.txt >>zubo.txt
-echo "四川,#genre#" >>zubo.txt
-cat txt/Sichuan_yidong.txt >>zubo.txt
-echo "江西,#genre#" >>zubo.txt
-cat txt/Jiangxi_dianxin.txt >>zubo.txt
 echo "KR,#genre#" >>zubo.txt
 cat txt/KR_SK.txt >>zubo.txt
 
