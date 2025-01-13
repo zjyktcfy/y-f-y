@@ -10,7 +10,7 @@ source_urls = [
     "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hebei_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt",
-    #"https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt",
+    "https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt",
     #"https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_yidong.txt",
@@ -24,7 +24,7 @@ source_urls = [
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt",
     "https://fei.yangfeiyue.us.kg/GAT.m3u",
     "https://fei.yangfeiyue.us.kg/NEWTV.m3u",
-    "https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt",
+    #"https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt",
     #"https://live.yangfeiyue.ip-ddns.com/speedtest/txt/KR_SK.txt",
     #"https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
