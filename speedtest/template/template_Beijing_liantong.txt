@@ -56,3 +56,11 @@ http://ipipip/rtp/239.3.1.163:8001
 http://ipipip/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="卫视高清",中国教育1台
 http://ipipip/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩竞技.png" group-title="卫视高清",睛彩竞技
+http://ipipip/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩篮球.png" group-title="卫视高清",睛彩篮球
+http://ipipip/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://live.fanmingming.com/tv/睛彩羽毛球.png" group-title="卫视高清",睛彩羽毛球
+http://ipipip/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
+http://ipipip/rtp/239.3.1.128:8001

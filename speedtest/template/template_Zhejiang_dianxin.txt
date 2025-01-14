@@ -98,14 +98,6 @@ http://ipipip/rtp/233.50.200.122:5140
 http://ipipip/rtp/233.50.200.148:5140
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png" group-title="卫视高清",中国教育4台
 http://ipipip/rtp/233.50.200.162:5140
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩竞技.png" group-title="卫视高清",睛彩竞技
-http://ipipip/rtp/233.50.202.26:5140
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩篮球.png" group-title="卫视高清",睛彩篮球
-http://ipipip/rtp/233.50.202.27:5140
-#EXTINF:-1 tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://live.fanmingming.com/tv/睛彩羽毛球.png" group-title="卫视高清",睛彩羽毛球
-http://ipipip/rtp/233.50.202.28:5140
-#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
-http://ipipip/rtp/233.50.202.29:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视高清",快乐垂钓
 http://ipipip/rtp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="卫视高清",茶
