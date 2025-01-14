@@ -1,44 +1,44 @@
-2025-01-13 17:17:37,059 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,059 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2025-01-13 17:17:37,135 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,136 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,200 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,201 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
-2025-01-13 17:17:37,251 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,251 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
-2025-01-13 17:17:37,299 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,299 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,357 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Henan_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,357 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Henan_liantong.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
-2025-01-13 17:17:37,412 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,412 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,590 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,591 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,653 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,653 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,706 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,706 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2025-01-13 17:17:37,775 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,776 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,825 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,825 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,881 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,881 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
-2025-01-13 17:17:37,929 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,929 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:37,979 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:37,980 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:38,042 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:38,043 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:38,095 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:38,095 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:38,153 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:38,153 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:38,210 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:38,211 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:38,259 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
-2025-01-13 17:17:38,260 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-01-13 17:17:38,396 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 获取成功，判断为txt格式
-2025-01-13 17:17:38,397 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 爬取成功✅，包含频道分类: 港澳台
-2025-01-13 17:17:38,489 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 获取成功，判断为txt格式
-2025-01-13 17:17:38,489 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 爬取成功✅，包含频道分类: NEWTV
+2025-01-14 09:49:05,701 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:05,701 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2025-01-14 09:49:05,788 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:05,788 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:05,862 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:05,862 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
+2025-01-14 09:49:05,939 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:05,940 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
+2025-01-14 09:49:06,019 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,020 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,091 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Henan_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,091 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Henan_liantong.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
+2025-01-14 09:49:06,176 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,176 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,334 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,334 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,420 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,421 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,490 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,491 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2025-01-14 09:49:06,559 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,560 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,645 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,645 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,707 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,707 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
+2025-01-14 09:49:06,790 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,790 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,860 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,860 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:06,940 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:06,940 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:07,016 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:07,016 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:07,152 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:07,152 - INFO - url: https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:07,226 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:07,226 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:07,297 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
+2025-01-14 09:49:07,297 - INFO - url: https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-01-14 09:49:07,511 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 获取成功，判断为txt格式
+2025-01-14 09:49:07,512 - INFO - url: https://fei.yangfeiyue.us.kg/GAT.m3u 爬取成功✅，包含频道分类: 港澳台
+2025-01-14 09:49:07,596 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 获取成功，判断为txt格式
+2025-01-14 09:49:07,596 - INFO - url: https://fei.yangfeiyue.us.kg/NEWTV.m3u 爬取成功✅，包含频道分类: NEWTV
