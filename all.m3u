@@ -1645,10 +1645,10 @@ http://36.46.99.31:8009/rtp/239.110.205.42:9882
 http://36.46.99.31:8025/rtp/239.112.205.220:5140
 #EXTINF:-1 tvg-id="2" tvg-name="紫阳综合" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/紫阳综合.png" group-title="陕西电信",紫阳综合
 http://36.46.99.31:8009/rtp/239.112.205.220:5140
-#EXTINF:-1 tvg-id="1" tvg-name="陕西陇县" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西陇县.png" group-title="陕西电信",陕西陇县
-http://36.46.99.31:8025/rtp/239.111.205.252:5140
-#EXTINF:-1 tvg-id="2" tvg-name="陕西陇县" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/陕西陇县.png" group-title="陕西电信",陕西陇县
-http://36.46.99.31:8009/rtp/239.111.205.252:5140
+#EXTINF:-1 tvg-id="1" tvg-name="安康综合" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/安康综合.png" group-title="陕西电信",安康综合
+http://36.46.99.31:8025/rtp/239.112.205.216:5140
+#EXTINF:-1 tvg-id="2" tvg-name="安康综合" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/安康综合.png" group-title="陕西电信",安康综合
+http://36.46.99.31:8009/rtp/239.112.205.216:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宁强综合" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/宁强综合.png" group-title="陕西电信",宁强综合
 http://36.46.99.31:8025/rtp/239.111.205.18:5140
 #EXTINF:-1 tvg-id="2" tvg-name="宁强综合" tvg-logo="https://live.yangfeiyue.ip-ddns.com/tv/宁强综合.png" group-title="陕西电信",宁强综合
