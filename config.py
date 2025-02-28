@@ -22,7 +22,7 @@ source_urls = [
     "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hunan_dianxin.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt",
-    "https://fei.yangfeiyue.us.kg/GAT.m3u",
+    #"https://fei.yangfeiyue.us.kg/GAT.m3u",
     "https://fei.yangfeiyue.us.kg/NEWTV.m3u",
     #"https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt",
     #"https://live.yangfeiyue.ip-ddns.com/speedtest/txt/KR_SK.txt",
