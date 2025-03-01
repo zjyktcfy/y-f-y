@@ -33,8 +33,8 @@ case $city_choice in
         stream="rtp/239.3.1.250:8001"
         channel_key="北京"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Beijing" && org="China Unicom Beijing Province Network" && protocol="http"' | base64 |tr -d '\n')
-#        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJCZWlqaW5nIiAmJiBvcmc9IkNoaW5hIFVuaWNvbSBCZWlqaW5nIFByb3ZpbmNlIE5ldHdvcmsiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
-        url_fofa="https://fo.yangfeiyue.us.kg/Beijing_liantong.txt"$url_fofa
+        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJCZWlqaW5nIiAmJiBvcmc9IkNoaW5hIFVuaWNvbSBCZWlqaW5nIFByb3ZpbmNlIE5ldHdvcmsiICYmIHByb3RvY29sPSJodHRwIg%3D%3D&page_size=20"$url_fofa
+#        url_fofa="https://fo.yangfeiyue.us.kg/Beijing_liantong.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
