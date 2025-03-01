@@ -1,8 +1,8 @@
 name: gengxincaijizuboip
 
 on:
-  #schedule:
-    #- cron: "30 23 * * *"
+  schedule:
+    - cron: "30 23 * * *"
   workflow_dispatch:
 
 jobs:
