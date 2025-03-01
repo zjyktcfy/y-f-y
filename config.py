@@ -1,13 +1,13 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Tianjin_liantong.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Zhejiang_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Beijing_liantong.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Shanghai_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Guangdong_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Henan_liantong.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hebei_liantong.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Tianjin_liantong.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Zhejiang_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Beijing_liantong.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Shanghai_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Guangdong_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Henan_liantong.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Hebei_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Shanxi_liantong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Shaanxi_dianxin.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Liaoning_liantong.txt",
@@ -15,17 +15,17 @@ source_urls = [
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Fujian_dianxin.txt",
     #"https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_yidong.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Sichuan_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Jiangsu_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Anhui_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hubei_dianxin.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Chongqing_liantong.txt",
-    "https://live.yangfeiyue.ip-ddns.com/speedtest/txt/Hunan_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Jiangsu_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Anhui_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Hubei_dianxin.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Chongqing_liantong.txt",
+    "https://live.yangfeiyue.us.kg/speedtest/txt/Hunan_dianxin.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Guangdian.txt",
     "https://cai.yangfeiyue.us.kg/speedtest/txt/Jiangxi_dianxin.txt",
     #"https://fei.yangfeiyue.us.kg/GAT.m3u",
     "https://fei.yangfeiyue.us.kg/NEWTV.m3u",
     #"https://fei.yangfeiyue.us.kg/Liaoning_liantong.txt",
-    #"https://live.yangfeiyue.ip-ddns.com/speedtest/txt/KR_SK.txt",
+    #"https://live.yangfeiyue.us.kg/speedtest/txt/KR_SK.txt",
     #"https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
 
@@ -52,9 +52,9 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "直播源均来自网络，不得商用，仅供学习交流使用。", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.ip-ddns.com/tv/武术台.png"},
-            {"name": "更新日期", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.ip-ddns.com/tv/武术台.png"},
-            {"name": None, "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.ip-ddns.com/tv/武术台.png"},
+            {"name": "直播源均来自网络，不得商用，仅供学习交流使用。", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.us.kg/tv/武术台.png"},
+            {"name": "更新日期", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.us.kg/tv/武术台.png"},
+            {"name": None, "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live.yangfeiyue.us.kg/tv/武术台.png"},
   ]
     }
 ]
