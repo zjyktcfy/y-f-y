@@ -1522,33 +1522,33 @@ http://171.107.7.89:5432/rtp/239.81.0.172:4056
 #EXTINF:-1 tvg-id="2" tvg-name="贵港新闻综合" tvg-logo="https://live.yangfeiyue.us.kg/tv/贵港新闻综合.png" group-title="广西电信",贵港新闻综合
 http://171.107.72.142:4000/rtp/239.81.0.172:4056
 #EXTINF:-1 tvg-id="1" tvg-name="江西影视旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西影视旅游.png" group-title="江西电信",江西影视旅游
-http://115.150.82.27:8688/rtp/239.252.220.242:5140
+http://111.72.202.152:7088/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西影视旅游" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西影视旅游.png" group-title="江西电信",江西影视旅游
-http:///rtp/239.252.220.242:5140
+http://111.72.202.22:7088/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-id="1" tvg-name="江西都市" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西都市.png" group-title="江西电信",江西都市
-http://115.150.82.27:8688/rtp/239.252.220.238:5140
+http://111.72.202.152:7088/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西都市" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西都市.png" group-title="江西电信",江西都市
-http:///rtp/239.252.220.238:5140
+http://111.72.202.22:7088/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="1" tvg-name="江西经济生活" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西经济生活.png" group-title="江西电信",江西经济生活
-http://115.150.82.27:8688/rtp/239.252.219.173:5140
+http://111.72.202.152:7088/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西经济生活" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西经济生活.png" group-title="江西电信",江西经济生活
-http:///rtp/239.252.219.173:5140
+http://111.72.202.22:7088/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-id="1" tvg-name="江西公共农业" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西公共农业.png" group-title="江西电信",江西公共农业
-http://115.150.82.27:8688/rtp/239.252.220.102:5140
+http://111.72.202.152:7088/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西公共农业" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西公共农业.png" group-title="江西电信",江西公共农业
-http:///rtp/239.252.220.102:5140
+http://111.72.202.22:7088/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-id="1" tvg-name="江西少儿" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西少儿.png" group-title="江西电信",江西少儿
-http://115.150.82.27:8688/rtp/239.252.219.113:5140
+http://111.72.202.152:7088/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西少儿" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西少儿.png" group-title="江西电信",江西少儿
-http:///rtp/239.252.219.113:5140
+http://111.72.202.22:7088/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="1" tvg-name="江西新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西新闻.png" group-title="江西电信",江西新闻
-http://115.150.82.27:8688/rtp/239.252.220.100:5140
+http://111.72.202.152:7088/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西新闻" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西新闻.png" group-title="江西电信",江西新闻
-http:///rtp/239.252.220.100:5140
+http://111.72.202.22:7088/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="1" tvg-name="江西移动" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西移动.png" group-title="江西电信",江西移动
-http://115.150.82.27:8688/rtp/239.252.220.241:5140
+http://111.72.202.152:7088/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西移动" tvg-logo="https://live.yangfeiyue.us.kg/tv/江西移动.png" group-title="江西电信",江西移动
-http:///rtp/239.252.220.241:5140
+http://111.72.202.22:7088/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
 http://36.46.99.49:8025/rtp/239.111.205.35:5140
 #EXTINF:-1 tvg-id="2" tvg-name="陕西卫视" tvg-logo="https://live.yangfeiyue.us.kg/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
