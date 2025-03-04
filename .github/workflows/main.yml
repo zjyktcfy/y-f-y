@@ -1,49 +1,49 @@
-姓名：名称：每日更新
+name: Daily Update
 
-在：
-  日程：
-    -cron：'10 0 * * *'
-  workflow_dispatch：
-    分支：
-      -       主要的
+on:
+  schedule:
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+    branches:
+      - main
 
-工作：
-  run_script：
-    运行：运行：ubuntu-24.04
+jobs:
+  run_script:
+    runs-on: ubuntu-24.04
 
-    步骤：
-    -姓名： - 名称：结帐存储库
-      用途：用途：action/checkout@v3
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-    -姓名： - 名称：设置python
-      用途：用途：action/setup-python@v2
-      和：
-        python-version：'3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
 
-    -姓名： - 名称：缓存依赖关系
-      用途：用途：action/cache@v3
-      和：
-        路径：路径：〜/.Cache/pip
-键：键：$ runner.os -pip- $ hashfiles { { { { } }}  {{ { '**/unignts.txts.txts.txts.txts.txts.txts.txts. } } }}} } } } }} }} }  } }} }}}}}}}}}} } } } } } }} { runner.os }}} }} } -pip- $ { {{ { runner.os } } -pip- $ { { hashfiles（'**/unignts.txt'）}}}} } }}} } }}     
-        还原键：|
-          $ {  { runner.os }   } -pip- {    { runner.os }    } -pip-
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
 
-    -     姓名：名称：安装依赖项：安装依赖项：安装依赖项：安装依赖项：安装依赖项
-      运行：|
-        pip安装请求
+    - name: Install dependencies
+      run: |
+        pip install requests
 
-名称： - 名称：运行python脚本
-      运行：运行：python main.py
+    - name: Run Python script
+      run: python main.py
 
-    - 姓名：提交并推动如果更改
-      运行：|
-        git config-local user.email“ github-actions [ bot ] @users.noreply.github.com”
-        git config-local user.name“ github-actions [ bot ] ”
-        git add -a
-        如果！ git diff -statage -quiet;然后
-          git commit -m“自动更新实时文件”
-          git推
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          git push
         fi
 
-    env：
-      TZ：亚洲/上海
+    env:
+      TZ: Asia/Shanghai
