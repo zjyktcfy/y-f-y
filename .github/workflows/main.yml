@@ -1,49 +1,49 @@
 姓名：名称：每日更新
 
-on:
-  schedule:
-    - cron: '10 0 * * *'
-  workflow_dispatch:
-    branches:
-      -       - 主要的
+在：
+  日程：
+    -cron：'10 0 * * *'
+  workflow_dispatch：
+    分支：
+      -       主要的
 
-jobs:
-  run_script:
-    runs-on:     运行：Ubuntu-24.04
+工作：
+  run_script：
+    运行：运行：ubuntu-24.04
 
-    steps:
-    - name:     - 名称：结帐存储库
-      uses:       用途：Action/Checkout@V4
+    步骤：
+    -姓名： - 名称：结帐存储库
+      用途：用途：action/checkout@v3
 
-    - name:     - 名称：设置Python
-      uses:       用途：Action/Setup-Python@V4
-      with:
-        python-version: '3.10'
+    -姓名： - 名称：设置python
+      用途：用途：action/setup-python@v4
+      和：
+        python-version：'3.10'
 
-    - name:     - 名称：缓存依赖关系
-      uses:       用途：Actions/Cache@V4
-      with:
-        path:         路径：〜/.cache/pip
-        key:         键：$ runner.os   -  pip- $ hashfiles（）{{}}{{'**/unignts.txt'}}} { { runner.os } } -pip- $ { { hashfiles（'**/unignts.txt'）}} }}
+    -姓名： - 名称：缓存依赖关系
+      用途：用途：action/cache@v3
+      和：
+        路径：路径：〜/.Cache/pip
+键：键：$ runner.os -pip- $ hashfiles { { { { } }}  {{ { '**/unignts.txts.txts.txts.txts.txts.txts.txts. } } }}} } } } }} }} }  } }} }}}}}}}}}} } } } } } }} { runner.os }}} }} } -pip- $ { {{ { runner.os } } -pip- $ { { hashfiles（'**/unignts.txt'）}}}} } }}} } }}     
         还原键：|
-          $ { { runner.os } } -pip-
+          $ {  { runner.os }   } -pip- {    { runner.os }    } -pip-
 
-    - 姓名： - 名称：安装依赖项
+    -     姓名：名称：安装依赖项：安装依赖项：安装依赖项：安装依赖项：安装依赖项
       运行：|
-        PIP安装请求
+        pip安装请求
 
-    -名称：      - 名称：运行python脚本
-      运行：       运行：python main.py
+名称： - 名称：运行python脚本
+      运行：运行：python main.py
 
     - 姓名：提交并推动如果更改
       运行：|
         git config-local user.email“ github-actions [ bot ] @users.noreply.github.com”
         git config-local user.name“ github-actions [ bot ] ”
         git add -a
-        如果！git diff -statage -quiet;然后
+        如果！ git diff -statage -quiet;然后
           git commit -m“自动更新实时文件”
           git推
         fi
 
     env：
-      TZ ：Asia/Shanghai
+      TZ：亚洲/上海
