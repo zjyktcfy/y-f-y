@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="安徽"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Anhui" && org="Chinanet" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJBbmh1aSIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi&page_size=20"$url_fofa
-        url_fofa="https://fa.yangfeiyue.ip-ddns.com/Anhui_dianxin.txt"$url_fofa
+        url_fofa="https://faa.yangfeiyue.dpdns.org/Anhui_dianxin.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
