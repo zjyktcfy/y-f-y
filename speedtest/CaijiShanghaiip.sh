@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="上海"
 #        url_fofa=$(echo  '"udpxy" && country="CN" && region="Shanghai" && org="China Telecom Group" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFuZ2hhaSIgJiYgb3JnPSJDaGluYSBUZWxlY29tIEdyb3VwIiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://fo.yangfeiyue.ip-ddns.com/Shanghai_dianxin.txt"$url_fofa
+        url_fofa="https://foo.yangfeiyue.dpdns.org/Shanghai_dianxin.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
