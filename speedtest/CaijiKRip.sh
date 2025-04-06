@@ -34,7 +34,7 @@ case $city_choice in
         channel_key="KR"
 #        url_fofa=$(echo  '"udpxy" && country="KR" && org="SK Broadband Co Ltd" && protocol="http"' | base64 |tr -d '\n')
 #        url_fofa="https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJLUiIgJiYgb3JnPSJTSyBCcm9hZGJhbmQgQ28gTHRkIiAmJiBwcm90b2NvbD0iaHR0cCI%3D&page_size=20"$url_fofa
-        url_fofa="https://li.yangfeiyue.ip-ddns.com/KR_SK.txt"$url_fofa
+        url_fofa="https://lii.yangfeiyue.dpdns.org/KR_SK.txt"$url_fofa
         ;;
     0)
         # 如果选择是“全部选项”，则逐个处理每个选项
