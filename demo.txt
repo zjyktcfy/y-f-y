@@ -486,7 +486,7 @@ NXTV
 泉州新闻
 海峡卫视
 
-NEWTV,#genre#
+移动TV,#genre#
 超级电影
 明星大片
 中国功夫
