@@ -3,7 +3,7 @@
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",更新日期
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-05-08" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-05-08
+#EXTINF:-1 tvg-id="1" tvg-name="2025-05-09" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-05-09
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV1.png" group-title="上海电信",CCTV1
 http://222.70.23.48:5555/rtp/239.45.3.145:5140
@@ -1413,6 +1413,34 @@ http://110.253.61.60:8686/rtp/239.253.93.248:6426
 http://121.20.207.185:9999/rtp/239.253.93.242:6420
 #EXTINF:-1 tvg-id="2" tvg-name="中华特产" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/中华特产.png" group-title="河北联通",中华特产
 http://110.253.61.60:8686/rtp/239.253.93.242:6420
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西卫视.png" group-title="山西联通",山西卫视
+http://183.185.13.123:8084/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="2" tvg-name="山西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西卫视.png" group-title="山西联通",山西卫视
+http://118.76.220.123:8888/rtp/226.0.1.85:2001
+#EXTINF:-1 tvg-id="1" tvg-name="山西影视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西影视.png" group-title="山西联通",山西影视
+http://183.185.13.123:8084/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="2" tvg-name="山西影视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西影视.png" group-title="山西联通",山西影视
+http://118.76.220.123:8888/rtp/226.0.1.82:2004
+#EXTINF:-1 tvg-id="1" tvg-name="山西社会与法治" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西社会与法治.png" group-title="山西联通",山西社会与法治
+http://183.185.13.123:8084/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="2" tvg-name="山西社会与法治" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西社会与法治.png" group-title="山西联通",山西社会与法治
+http://118.76.220.123:8888/rtp/226.0.1.83:2005
+#EXTINF:-1 tvg-id="1" tvg-name="山西文体生活" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西文体生活.png" group-title="山西联通",山西文体生活
+http://183.185.13.123:8084/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="2" tvg-name="山西文体生活" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西文体生活.png" group-title="山西联通",山西文体生活
+http://118.76.220.123:8888/rtp/226.0.1.200:2006
+#EXTINF:-1 tvg-id="1" tvg-name="山西经济与科技" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西经济与科技.png" group-title="山西联通",山西经济与科技
+http://183.185.13.123:8084/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="2" tvg-name="山西经济与科技" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山西经济与科技.png" group-title="山西联通",山西经济与科技
+http://118.76.220.123:8888/rtp/226.0.1.81:2003
+#EXTINF:-1 tvg-id="1" tvg-name="黄河卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/黄河卫视.png" group-title="山西联通",黄河卫视
+http://183.185.13.123:8084/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="2" tvg-name="黄河卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/黄河卫视.png" group-title="山西联通",黄河卫视
+http://118.76.220.123:8888/rtp/226.0.1.84:2002
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
+http://183.185.13.123:8084/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="2" tvg-name="早期教育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
+http://118.76.220.123:8888/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="1" tvg-name="广西影视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/广西影视.png" group-title="广西电信",广西影视
 http://220.173.254.96:6665/rtp/239.81.0.250:4056
 #EXTINF:-1 tvg-id="2" tvg-name="广西影视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/广西影视.png" group-title="广西电信",广西影视
@@ -1521,6 +1549,144 @@ http://111.72.202.195:7088/rtp/239.252.220.100:5140
 http://59.54.14.220:8888/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="2" tvg-name="江西移动" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江西移动.png" group-title="江西电信",江西移动
 http://111.72.202.195:7088/rtp/239.252.220.241:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
+http://36.46.67.216:4022/rtp/239.111.205.35:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西卫视.png" group-title="陕西电信",陕西卫视
+http://36.46.67.132:4022/rtp/239.111.205.35:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西新闻资讯" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西新闻资讯.png" group-title="陕西电信",陕西新闻资讯
+http://36.46.67.216:4022/rtp/239.111.205.28:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西新闻资讯" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西新闻资讯.png" group-title="陕西电信",陕西新闻资讯
+http://36.46.67.132:4022/rtp/239.111.205.28:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西都市青春" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西都市青春.png" group-title="陕西电信",陕西都市青春
+http://36.46.67.216:4022/rtp/239.111.205.42:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西都市青春" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西都市青春.png" group-title="陕西电信",陕西都市青春
+http://36.46.67.132:4022/rtp/239.111.205.42:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西体育休闲" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西体育休闲.png" group-title="陕西电信",陕西体育休闲
+http://36.46.67.216:4022/rtp/239.111.205.36:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西体育休闲" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西体育休闲.png" group-title="陕西电信",陕西体育休闲
+http://36.46.67.132:4022/rtp/239.111.205.36:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西八套" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西八套.png" group-title="陕西电信",陕西八套
+http://36.46.67.216:4022/rtp/239.111.205.102:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西八套" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西八套.png" group-title="陕西电信",陕西八套
+http://36.46.67.132:4022/rtp/239.111.205.102:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西银龄" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西银龄.png" group-title="陕西电信",陕西银龄
+http://36.46.67.216:4022/rtp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西银龄" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西银龄.png" group-title="陕西电信",陕西银龄
+http://36.46.67.132:4022/rtp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西秦腔" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西秦腔.png" group-title="陕西电信",陕西秦腔
+http://36.46.67.216:4022/rtp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西秦腔" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西秦腔.png" group-title="陕西电信",陕西秦腔
+http://36.46.67.132:4022/rtp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="1" tvg-name="宝鸡综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/宝鸡综合.png" group-title="陕西电信",宝鸡综合
+http://36.46.67.216:4022/rtp/239.112.205.143:5140
+#EXTINF:-1 tvg-id="2" tvg-name="宝鸡综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/宝鸡综合.png" group-title="陕西电信",宝鸡综合
+http://36.46.67.132:4022/rtp/239.112.205.143:5140
+#EXTINF:-1 tvg-id="1" tvg-name="宝鸡公共" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/宝鸡公共.png" group-title="陕西电信",宝鸡公共
+http://36.46.67.216:4022/rtp/239.112.205.148:5140
+#EXTINF:-1 tvg-id="2" tvg-name="宝鸡公共" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/宝鸡公共.png" group-title="陕西电信",宝鸡公共
+http://36.46.67.132:4022/rtp/239.112.205.148:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西扶风" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西扶风.png" group-title="陕西电信",陕西扶风
+http://36.46.67.216:4022/rtp/239.111.205.80:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西扶风" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西扶风.png" group-title="陕西电信",陕西扶风
+http://36.46.67.132:4022/rtp/239.111.205.80:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西凤翔" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西凤翔.png" group-title="陕西电信",陕西凤翔
+http://36.46.67.216:4022/rtp/239.111.205.244:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西凤翔" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西凤翔.png" group-title="陕西电信",陕西凤翔
+http://36.46.67.132:4022/rtp/239.111.205.244:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西陈仓" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西陈仓.png" group-title="陕西电信",陕西陈仓
+http://36.46.67.216:4022/rtp/239.111.205.245:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西陈仓" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西陈仓.png" group-title="陕西电信",陕西陈仓
+http://36.46.67.132:4022/rtp/239.111.205.245:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西城固" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西城固.png" group-title="陕西电信",陕西城固
+http://36.46.67.216:4022/rtp/239.111.205.79:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西城固" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西城固.png" group-title="陕西电信",陕西城固
+http://36.46.67.132:4022/rtp/239.111.205.79:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西淳化" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西淳化.png" group-title="陕西电信",陕西淳化
+http://36.46.67.216:4022/rtp/239.111.205.97:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西淳化" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西淳化.png" group-title="陕西电信",陕西淳化
+http://36.46.67.132:4022/rtp/239.111.205.97:5140
+#EXTINF:-1 tvg-id="1" tvg-name="佛坪综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/佛坪综合.png" group-title="陕西电信",佛坪综合
+http://36.46.67.216:4022/rtp/239.112.205.229:5140
+#EXTINF:-1 tvg-id="2" tvg-name="佛坪综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/佛坪综合.png" group-title="陕西电信",佛坪综合
+http://36.46.67.132:4022/rtp/239.112.205.229:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西合阳" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西合阳.png" group-title="陕西电信",陕西合阳
+http://36.46.67.216:4022/rtp/239.112.205.190:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西合阳" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西合阳.png" group-title="陕西电信",陕西合阳
+http://36.46.67.132:4022/rtp/239.112.205.190:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西岚皋" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西岚皋.png" group-title="陕西电信",陕西岚皋
+http://36.46.67.216:4022/rtp/239.111.205.248:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西岚皋" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西岚皋.png" group-title="陕西电信",陕西岚皋
+http://36.46.67.132:4022/rtp/239.111.205.248:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西麟游" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西麟游.png" group-title="陕西电信",陕西麟游
+http://36.46.67.216:4022/rtp/239.111.205.31:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西麟游" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西麟游.png" group-title="陕西电信",陕西麟游
+http://36.46.67.132:4022/rtp/239.111.205.31:5140
+#EXTINF:-1 tvg-id="1" tvg-name="眉县新闻综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/眉县新闻综合.png" group-title="陕西电信",眉县新闻综合
+http://36.46.67.216:4022/rtp/239.111.205.81:5140
+#EXTINF:-1 tvg-id="2" tvg-name="眉县新闻综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/眉县新闻综合.png" group-title="陕西电信",眉县新闻综合
+http://36.46.67.132:4022/rtp/239.111.205.81:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西千阳" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西千阳.png" group-title="陕西电信",陕西千阳
+http://36.46.67.216:4022/rtp/239.111.205.250:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西千阳" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西千阳.png" group-title="陕西电信",陕西千阳
+http://36.46.67.132:4022/rtp/239.111.205.250:5140
+#EXTINF:-1 tvg-id="1" tvg-name="商洛综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/商洛综合.png" group-title="陕西电信",商洛综合
+http://36.46.67.216:4022/rtp/239.112.205.189:5140
+#EXTINF:-1 tvg-id="2" tvg-name="商洛综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/商洛综合.png" group-title="陕西电信",商洛综合
+http://36.46.67.132:4022/rtp/239.112.205.189:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西太白" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西太白.png" group-title="陕西电信",陕西太白
+http://36.46.67.216:4022/rtp/239.111.205.251:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西太白" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西太白.png" group-title="陕西电信",陕西太白
+http://36.46.67.132:4022/rtp/239.111.205.251:5140
+#EXTINF:-1 tvg-id="1" tvg-name="渭南新闻综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/渭南新闻综合.png" group-title="陕西电信",渭南新闻综合
+http://36.46.67.216:4022/rtp/239.111.205.19:5140
+#EXTINF:-1 tvg-id="2" tvg-name="渭南新闻综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/渭南新闻综合.png" group-title="陕西电信",渭南新闻综合
+http://36.46.67.132:4022/rtp/239.111.205.19:5140
+#EXTINF:-1 tvg-id="1" tvg-name="陕西洋县" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西洋县.png" group-title="陕西电信",陕西洋县
+http://36.46.67.216:4022/rtp/239.111.205.77:5140
+#EXTINF:-1 tvg-id="2" tvg-name="陕西洋县" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/陕西洋县.png" group-title="陕西电信",陕西洋县
+http://36.46.67.132:4022/rtp/239.111.205.77:5140
+#EXTINF:-1 tvg-id="1" tvg-name="榆林综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/榆林综合.png" group-title="陕西电信",榆林综合
+http://36.46.67.216:4022/rtp/239.110.205.42:9882
+#EXTINF:-1 tvg-id="2" tvg-name="榆林综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/榆林综合.png" group-title="陕西电信",榆林综合
+http://36.46.67.132:4022/rtp/239.110.205.42:9882
+#EXTINF:-1 tvg-id="1" tvg-name="紫阳综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/紫阳综合.png" group-title="陕西电信",紫阳综合
+http://36.46.67.216:4022/rtp/239.112.205.220:5140
+#EXTINF:-1 tvg-id="2" tvg-name="紫阳综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/紫阳综合.png" group-title="陕西电信",紫阳综合
+http://36.46.67.132:4022/rtp/239.112.205.220:5140
+#EXTINF:-1 tvg-id="1" tvg-name="安康综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/安康综合.png" group-title="陕西电信",安康综合
+http://36.46.67.216:4022/rtp/239.112.205.216:5140
+#EXTINF:-1 tvg-id="2" tvg-name="安康综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/安康综合.png" group-title="陕西电信",安康综合
+http://36.46.67.132:4022/rtp/239.112.205.216:5140
+#EXTINF:-1 tvg-id="1" tvg-name="宁强综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/宁强综合.png" group-title="陕西电信",宁强综合
+http://36.46.67.216:4022/rtp/239.111.205.18:5140
+#EXTINF:-1 tvg-id="2" tvg-name="宁强综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/宁强综合.png" group-title="陕西电信",宁强综合
+http://36.46.67.132:4022/rtp/239.111.205.18:5140
+#EXTINF:-1 tvg-id="1" tvg-name="旬阳新闻综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/旬阳新闻综合.png" group-title="陕西电信",旬阳新闻综合
+http://36.46.67.216:4022/rtp/239.110.205.52:9934
+#EXTINF:-1 tvg-id="2" tvg-name="旬阳新闻综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/旬阳新闻综合.png" group-title="陕西电信",旬阳新闻综合
+http://36.46.67.132:4022/rtp/239.110.205.52:9934
+#EXTINF:-1 tvg-id="1" tvg-name="西乡融媒" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/西乡融媒.png" group-title="陕西电信",西乡融媒
+http://36.46.67.216:4022/rtp/239.111.205.17:5140
+#EXTINF:-1 tvg-id="2" tvg-name="西乡融媒" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/西乡融媒.png" group-title="陕西电信",西乡融媒
+http://36.46.67.132:4022/rtp/239.111.205.17:5140
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁北方" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
+http:///rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁都市" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁都市.png" group-title="辽宁联通",辽宁都市
+http:///rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁影视剧" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁影视剧.png" group-title="辽宁联通",辽宁影视剧
+http:///rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁体育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁体育.png" group-title="辽宁联通",辽宁体育
+http:///rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁生活" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁生活.png" group-title="辽宁联通",辽宁生活
+http:///rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁教育青少" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁教育青少.png" group-title="辽宁联通",辽宁教育青少
+http:///rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁公共" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁公共.png" group-title="辽宁联通",辽宁公共
+http:///rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁经济" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁经济.png" group-title="辽宁联通",辽宁经济
+http:///rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-id="1" tvg-name="沈阳新闻" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
+http:///rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="1" tvg-name="福建电视剧" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/福建电视剧.png" group-title="福建电信",福建电视剧
 http:///rtp/239.61.4.5:1025
 #EXTINF:-1 tvg-id="1" tvg-name="福建新闻" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/福建新闻.png" group-title="福建电信",福建新闻
