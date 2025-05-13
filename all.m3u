@@ -3,7 +3,7 @@
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",更新日期
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-05-12" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-05-12
+#EXTINF:-1 tvg-id="1" tvg-name="2025-05-13" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-05-13
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV1.png" group-title="上海电信",CCTV1
 http://222.70.23.48:5555/rtp/239.45.3.145:5140
