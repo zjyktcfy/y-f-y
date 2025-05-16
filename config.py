@@ -10,6 +10,7 @@ source_urls = [
     "https://cq.yangfeiyue.dpdns.org/txt/重庆联通.txt",
     "https://shx.yangfeiyue.dpdns.org/txt/陕西电信.txt",
     "https://jx.yangfeiyue.dpdns.org/txt/江西电信.txt",
+    "https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt",   
     "https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt",
 ]
 
