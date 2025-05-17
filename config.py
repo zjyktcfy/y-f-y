@@ -10,8 +10,17 @@ source_urls = [
     "https://cq.yangfeiyue.dpdns.org/txt/重庆联通.txt",
     "https://shx.yangfeiyue.dpdns.org/txt/陕西电信.txt",
     "https://jx.yangfeiyue.dpdns.org/txt/江西电信.txt",
-    "https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt",   
+    "https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt",
+    "https://ah.yangfeiyue.dpdns.org/txt/安徽电信.txt",
+    "https://hun.yangfeiyue.dpdns.org/txt/湖南电信.txt",
+    "https://sc.yangfeiyue.dpdns.org/txt/四川电信.txt",
+    "https://gx.yangfeiyue.dpdns.org/txt/广西电信.txt",
+    "https://hb.yangfeiyue.dpdns.org/txt/湖北电信.txt",
+    "https://heb.yangfeiyue.dpdns.org/txt/河北联通.txt",
+    "https://sx.yangfeiyue.dpdns.org/txt/山西联通.txt",
+    "https://hn.yangfeiyue.dpdns.org/txt/河南联通.txt",
     "https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt",
+    "https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u",
 ]
 
 url_blacklist = [
