@@ -20,6 +20,7 @@ source_urls = [
     "https://sx.yangfeiyue.dpdns.org/txt/山西联通.txt",
     "https://hn.yangfeiyue.dpdns.org/txt/河南联通.txt",
     "https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt",
+    "https://gd1.yangfeiyue.dpdns.org/txt/广电.txt",
     "https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u",
 ]
 
