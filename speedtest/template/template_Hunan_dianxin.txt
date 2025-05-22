@@ -22,6 +22,8 @@ http://ipipip/rtp/239.76.245.234:1234
 http://ipipip/rtp/239.76.245.235:1234
 #EXTINF:-1 tvg-id="永州新闻综合" tvg-name="永州新闻综合" tvg-logo="https://live.fanmingming.com/tv/永州新闻综合.png" group-title="卫视高清",永州新闻综合
 http://ipipip/rtp/239.76.248.23:1234
+#EXTINF:-1 tvg-id="永州经济生活" tvg-name="永州经济生活" tvg-logo="https://live.fanmingming.com/tv/永州经济生活.png" group-title="卫视高清",永州经济生活
+http://ipipip/rtp/239.76.255.24:9000
 #EXTINF:-1 tvg-id="长沙新闻综合" tvg-name="长沙新闻综合" tvg-logo="https://live.fanmingming.com/tv/长沙新闻综合.png" group-title="卫视高清",长沙新闻综合
 http://ipipip/rtp/239.76.246.121:1234
 #EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png" group-title="卫视高清",长沙政法
@@ -32,6 +34,8 @@ http://ipipip/rtp/239.76.248.25:1234
 http://ipipip/rtp/239.76.248.31:1234
 #EXTINF:-1 tvg-id="湘西新闻综合" tvg-name="湘西新闻综合" tvg-logo="https://live.fanmingming.com/tv/湘西新闻综合.png" group-title="卫视高清",湘西新闻综合
 http://ipipip/rtp/239.76.245.208:1234
+#EXTINF:-1 tvg-id="湘西文化旅游" tvg-name="湘西文化旅游" tvg-logo="https://live.fanmingming.com/tv/湘西文化旅游.png" group-title="卫视高清",湘西文化旅游
+http://ipipip/rtp/239.76.245.209:1234
 #EXTINF:-1 tvg-id="武冈综合" tvg-name="武冈综合" tvg-logo="https://live.fanmingming.com/tv/武冈综合.png" group-title="卫视高清",武冈综合
 http://ipipip/rtp/239.76.248.29:1234
 #EXTINF:-1 tvg-id="娄底综合" tvg-name="娄底综合" tvg-logo="https://live.fanmingming.com/tv/娄底综合.png" group-title="卫视高清",娄底综合
@@ -60,3 +64,25 @@ http://ipipip/rtp/239.76.248.10:1234
 http://ipipip/rtp/239.76.248.11:1234
 #EXTINF:-1 tvg-id="NXTV" tvg-name="NXTV" tvg-logo="https://live.fanmingming.com/tv/NXTV.png" group-title="卫视高清",NXTV
 http://ipipip/rtp/239.76.248.57:1234
+#EXTINF:-1 tvg-id="HNXTTV1" tvg-name="HNXTTV1" tvg-logo="https://live.fanmingming.com/tv/HNXTTV1.png" group-title="卫视高清",HNXTTV1
+http://ipipip/rtp/239.76.248.41:1234
+#EXTINF:-1 tvg-id="汨罗综合" tvg-name="汨罗综合" tvg-logo="https://live.fanmingming.com/tv/汨罗综合.png" group-title="卫视高清",汨罗综合
+http://ipipip/rtp/239.76.255.47:9000
+#EXTINF:-1 tvg-id="桃园综合" tvg-name="桃园综合" tvg-logo="https://live.fanmingming.com/tv/桃园综合.png" group-title="卫视高清",桃园综合
+http://ipipip/rtp/239.76.248.36:1234
+#EXTINF:-1 tvg-id="新田综合" tvg-name="新田综合" tvg-logo="https://live.fanmingming.com/tv/新田综合.png" group-title="卫视高清",新田综合
+http://ipipip/rtp/239.76.255.44:9000
+#EXTINF:-1 tvg-id="岳阳新闻综合" tvg-name="岳阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/岳阳新闻综合.png" group-title="卫视高清",岳阳新闻综合
+http://ipipip/rtp/239.76.248.7:1234
+#EXTINF:-1 tvg-id="浏阳新闻综合" tvg-name="浏阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/浏阳新闻综合.png" group-title="卫视高清",浏阳新闻综合
+http://ipipip/rtp/239.76.248.6:1234
+#EXTINF:-1 tvg-id="蓝山综合" tvg-name="蓝山综合" tvg-logo="https://live.fanmingming.com/tv/蓝山综合.png" group-title="卫视高清",蓝山综合
+http://ipipip/rtp/239.76.248.38:1234
+#EXTINF:-1 tvg-id="麻阳综合" tvg-name="麻阳综合" tvg-logo="https://live.fanmingming.com/tv/麻阳综合.png" group-title="卫视高清",麻阳综合
+http://ipipip/rtp/239.76.255.45:9000
+#EXTINF:-1 tvg-id="郴州文旅" tvg-name="郴州文旅" tvg-logo="https://live.fanmingming.com/tv/郴州文旅.png" group-title="卫视高清",郴州文旅
+http://ipipip/rtp/239.76.255.39:9000
+#EXTINF:-1 tvg-id="涟源综合" tvg-name="涟源综合" tvg-logo="https://live.fanmingming.com/tv/涟源综合.png" group-title="卫视高清",涟源综合
+http://ipipip/rtp/239.76.255.48:9000
+#EXTINF:-1 tvg-id="益阳新闻综合" tvg-name="益阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/益阳新闻综合.png" group-title="卫视高清",益阳新闻综合
+http://ipipip/rtp/239.76.248.15:1234
