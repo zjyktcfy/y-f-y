@@ -1,42 +1,42 @@
-2025-05-22 14:21:24,574 - INFO - url: https://zj.yangfeiyue.dpdns.org/txt/浙江电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:24,575 - INFO - url: https://zj.yangfeiyue.dpdns.org/txt/浙江电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:25,080 - INFO - url: https://sh.yangfeiyue.dpdns.org/txt/上海电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:25,081 - INFO - url: https://sh.yangfeiyue.dpdns.org/txt/上海电信.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
-2025-05-22 14:21:25,568 - INFO - url: https://gd.yangfeiyue.dpdns.org/txt/广东电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:25,569 - INFO - url: https://gd.yangfeiyue.dpdns.org/txt/广东电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:29,911 - INFO - url: https://bj.yangfeiyue.dpdns.org/txt/北京联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:29,911 - INFO - url: https://bj.yangfeiyue.dpdns.org/txt/北京联通.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
-2025-05-22 14:21:30,006 - INFO - url: https://tj.yangfeiyue.dpdns.org/txt/天津联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:30,006 - INFO - url: https://tj.yangfeiyue.dpdns.org/txt/天津联通.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2025-05-22 14:21:30,111 - INFO - url: https://js.yangfeiyue.dpdns.org/txt/江苏电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:30,111 - INFO - url: https://js.yangfeiyue.dpdns.org/txt/江苏电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:30,199 - INFO - url: https://cq.yangfeiyue.dpdns.org/txt/重庆联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:30,199 - INFO - url: https://cq.yangfeiyue.dpdns.org/txt/重庆联通.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:30,645 - INFO - url: https://shx.yangfeiyue.dpdns.org/txt/陕西电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:30,646 - INFO - url: https://shx.yangfeiyue.dpdns.org/txt/陕西电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:30,848 - INFO - url: https://jx.yangfeiyue.dpdns.org/txt/江西电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:30,848 - INFO - url: https://jx.yangfeiyue.dpdns.org/txt/江西电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:30,946 - INFO - url: https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:30,946 - INFO - url: https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:31,055 - INFO - url: https://ah.yangfeiyue.dpdns.org/txt/安徽电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:31,055 - INFO - url: https://ah.yangfeiyue.dpdns.org/txt/安徽电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:31,544 - INFO - url: https://hun.yangfeiyue.dpdns.org/txt/湖南电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:31,545 - INFO - url: https://hun.yangfeiyue.dpdns.org/txt/湖南电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:32,047 - INFO - url: https://sc.yangfeiyue.dpdns.org/txt/四川电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,048 - INFO - url: https://sc.yangfeiyue.dpdns.org/txt/四川电信.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
-2025-05-22 14:21:32,150 - INFO - url: https://gx.yangfeiyue.dpdns.org/txt/广西电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,150 - INFO - url: https://gx.yangfeiyue.dpdns.org/txt/广西电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:32,243 - INFO - url: https://hb.yangfeiyue.dpdns.org/txt/湖北电信.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,244 - INFO - url: https://hb.yangfeiyue.dpdns.org/txt/湖北电信.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:32,322 - INFO - url: https://heb.yangfeiyue.dpdns.org/txt/河北联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,322 - INFO - url: https://heb.yangfeiyue.dpdns.org/txt/河北联通.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:32,414 - INFO - url: https://sx.yangfeiyue.dpdns.org/txt/山西联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,414 - INFO - url: https://sx.yangfeiyue.dpdns.org/txt/山西联通.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:32,499 - INFO - url: https://hn.yangfeiyue.dpdns.org/txt/河南联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,500 - INFO - url: https://hn.yangfeiyue.dpdns.org/txt/河南联通.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
-2025-05-22 14:21:32,601 - INFO - url: https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,601 - INFO - url: https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2025-05-22 14:21:32,690 - INFO - url: https://gd1.yangfeiyue.dpdns.org/txt/广电.txt 获取成功，判断为m3u格式
-2025-05-22 14:21:32,690 - INFO - url: https://gd1.yangfeiyue.dpdns.org/txt/广电.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-05-22 14:21:32,769 - INFO - url: https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u 获取成功，判断为txt格式
-2025-05-22 14:21:32,769 - INFO - url: https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u 爬取成功✅，包含频道分类: NEW
+2025-05-23 10:07:34,383 - INFO - url: https://zj.yangfeiyue.dpdns.org/txt/浙江电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:34,384 - INFO - url: https://zj.yangfeiyue.dpdns.org/txt/浙江电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:38,876 - INFO - url: https://sh.yangfeiyue.dpdns.org/txt/上海电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:38,876 - INFO - url: https://sh.yangfeiyue.dpdns.org/txt/上海电信.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
+2025-05-23 10:07:39,376 - INFO - url: https://gd.yangfeiyue.dpdns.org/txt/广东电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:39,377 - INFO - url: https://gd.yangfeiyue.dpdns.org/txt/广东电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:43,726 - INFO - url: https://bj.yangfeiyue.dpdns.org/txt/北京联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:43,726 - INFO - url: https://bj.yangfeiyue.dpdns.org/txt/北京联通.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
+2025-05-23 10:07:44,240 - INFO - url: https://tj.yangfeiyue.dpdns.org/txt/天津联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:44,241 - INFO - url: https://tj.yangfeiyue.dpdns.org/txt/天津联通.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2025-05-23 10:07:44,819 - INFO - url: https://js.yangfeiyue.dpdns.org/txt/江苏电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:44,819 - INFO - url: https://js.yangfeiyue.dpdns.org/txt/江苏电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:45,319 - INFO - url: https://cq.yangfeiyue.dpdns.org/txt/重庆联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:45,320 - INFO - url: https://cq.yangfeiyue.dpdns.org/txt/重庆联通.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:46,267 - INFO - url: https://shx.yangfeiyue.dpdns.org/txt/陕西电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:46,268 - INFO - url: https://shx.yangfeiyue.dpdns.org/txt/陕西电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:46,667 - INFO - url: https://jx.yangfeiyue.dpdns.org/txt/江西电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:46,667 - INFO - url: https://jx.yangfeiyue.dpdns.org/txt/江西电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:46,869 - INFO - url: https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:46,869 - INFO - url: https://fj.yangfeiyue.dpdns.org/txt/福建电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:51,201 - INFO - url: https://ah.yangfeiyue.dpdns.org/txt/安徽电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:51,202 - INFO - url: https://ah.yangfeiyue.dpdns.org/txt/安徽电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:55,435 - INFO - url: https://hun.yangfeiyue.dpdns.org/txt/湖南电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:55,436 - INFO - url: https://hun.yangfeiyue.dpdns.org/txt/湖南电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:55,621 - INFO - url: https://sc.yangfeiyue.dpdns.org/txt/四川电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:55,622 - INFO - url: https://sc.yangfeiyue.dpdns.org/txt/四川电信.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
+2025-05-23 10:07:55,982 - INFO - url: https://gx.yangfeiyue.dpdns.org/txt/广西电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:55,982 - INFO - url: https://gx.yangfeiyue.dpdns.org/txt/广西电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:56,128 - INFO - url: https://hb.yangfeiyue.dpdns.org/txt/湖北电信.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:56,128 - INFO - url: https://hb.yangfeiyue.dpdns.org/txt/湖北电信.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:56,356 - INFO - url: https://heb.yangfeiyue.dpdns.org/txt/河北联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:56,356 - INFO - url: https://heb.yangfeiyue.dpdns.org/txt/河北联通.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:56,892 - INFO - url: https://sx.yangfeiyue.dpdns.org/txt/山西联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:56,892 - INFO - url: https://sx.yangfeiyue.dpdns.org/txt/山西联通.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:57,078 - INFO - url: https://hn.yangfeiyue.dpdns.org/txt/河南联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:57,079 - INFO - url: https://hn.yangfeiyue.dpdns.org/txt/河南联通.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 国学, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
+2025-05-23 10:07:57,241 - INFO - url: https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:57,241 - INFO - url: https://ln.yangfeiyue.dpdns.org/txt/辽宁联通.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2025-05-23 10:07:57,397 - INFO - url: https://gd1.yangfeiyue.dpdns.org/txt/广电.txt 获取成功，判断为m3u格式
+2025-05-23 10:07:57,397 - INFO - url: https://gd1.yangfeiyue.dpdns.org/txt/广电.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-05-23 10:07:57,814 - INFO - url: https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u 获取成功，判断为txt格式
+2025-05-23 10:07:57,814 - INFO - url: https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u 爬取成功✅，包含频道分类: NEW
