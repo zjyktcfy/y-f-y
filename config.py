@@ -20,6 +20,7 @@ source_urls = [
     "https://sx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt",
     "https://hn.yangfeiyue.dpdns.org/txt/Henan_liantong.txt",
     "https://ln.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt",
+    "https://hlj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt",
     "https://gd1.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
     "https://cai1.yangfeiyue.dpdns.org/speedtest/txt/NEW.m3u",
 ]
