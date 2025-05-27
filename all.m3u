@@ -2821,11 +2821,11 @@ http://140.250.221.14:4022/rtp/239.21.1.232:5002
 http://113.128.132.161:8688/rtp/239.21.1.232:5002
 #EXTINF:-1 tvg-id="3" tvg-name="青州综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/青州综合.png" group-title="山东电信",青州综合
 http://144.255.44.61:7788/rtp/239.21.1.232:5002
-#EXTINF:-1 tvg-id="1" tvg-name="齐河新闻" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/齐河新闻.png" group-title="山东电信",齐河新闻
+#EXTINF:-1 tvg-id="1" tvg-name="齐河综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/齐河综合.png" group-title="山东电信",齐河综合
 http://140.250.221.14:4022/rtp/239.21.1.230:5002
-#EXTINF:-1 tvg-id="2" tvg-name="齐河新闻" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/齐河新闻.png" group-title="山东电信",齐河新闻
+#EXTINF:-1 tvg-id="2" tvg-name="齐河综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/齐河综合.png" group-title="山东电信",齐河综合
 http://113.128.132.161:8688/rtp/239.21.1.230:5002
-#EXTINF:-1 tvg-id="3" tvg-name="齐河新闻" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/齐河新闻.png" group-title="山东电信",齐河新闻
+#EXTINF:-1 tvg-id="3" tvg-name="齐河综合" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/齐河综合.png" group-title="山东电信",齐河综合
 http://144.255.44.61:7788/rtp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="1" tvg-name="巨野新闻" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/巨野新闻.png" group-title="山东电信",巨野新闻
 http://140.250.221.14:4022/rtp/239.21.1.215:5002
