@@ -15,6 +15,7 @@ source_urls = [
     "https://hun.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt",
     "https://sc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt",
     "https://gx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt",
+    "https://sd.yangfeiyue.dpdns.org/txt/Shangdong_dianxin.txt",
     "https://hb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt",
     "https://heb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt",
     "https://sx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt",
